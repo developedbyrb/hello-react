@@ -22,6 +22,9 @@ function Navbar() {
                     <li className="nav-item">
                         <Link className="nav-link" to="/counter">Counter</Link>
                     </li>
+                    <li className="nav-item">
+                        <Link className="nav-link" to="/auto-complete">Auto Complete</Link>
+                    </li>
                 </ul>
             </div>
         </nav>
